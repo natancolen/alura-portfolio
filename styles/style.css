@@ -16,7 +16,6 @@
 }
 
 body {
-    /* height: 100vh; */
     box-sizing: border-box;
     background-color: var(--cor-principal);
     color: var(--cor-secundaria);
@@ -82,7 +81,6 @@ body {
 }
 
 .apresentacao__links__link {
-    /* background-color: #22d4fd; */
     display: flex;
     justify-content: center;
     gap: 16px;
